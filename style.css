@@ -1,0 +1,42 @@
+body {
+    max-width: 1400px;
+}
+.navbar{
+    background: #2F0646;
+}
+
+.quem-somos {
+    background: rgb(236, 103, 103);
+    color: white;
+}
+
+.margin {
+    padding: 40px;
+}
+
+h3 {
+    margin-bottom: 30px;
+}
+
+.qs {
+    margin-top: 20px;
+}
+
+.parceiros {
+    background: #229EBA;
+    color: white;
+}
+
+.servicos {
+    background: #9740C8;
+    color: white;
+}
+
+.rodape {
+    background: rgb(236, 103, 103);
+    color: white;
+}
+
+p {
+    padding-top: 20px;
+}
